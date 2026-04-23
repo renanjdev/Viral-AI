@@ -1,0 +1,13 @@
+{
+  "name": "ViralClip AI",
+  "description": "AI-powered short video generator that extracts viral moments from long-form videos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Video Processing",
+    "AI Content Analysis",
+    "Social Media Optimization"
+  ]
+}
